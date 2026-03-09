@@ -99,7 +99,7 @@ Testes:
 
 Este laboratório permitiu compreender o funcionamento  de uma rede local simples, incluindo:
 
--Estrutura de uma rede doméstica ou de pequeno escritório 
+- Estrutura de uma rede doméstica ou de pequeno escritório 
 - Utilização de um roteador com porta WAN e portas LAN
 - Funcionamento do DHCP
 - Comunicação entre dispositivos na rede local
