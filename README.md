@@ -46,4 +46,9 @@ PC3[Notebook 3]
 
 Printer[Impressora de Rede]
 
-WAN
+WAN --> |porta WAN| Router
+
+Router --> |LAN 1| PC1
+Router --> |LAN 2| PC2
+Router --> |LAN 3| PC3
+Router --> |LAN 4| PRINTER
